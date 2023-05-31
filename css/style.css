@@ -1781,7 +1781,10 @@ ul{
   background-color: var(--primary-color);
   transition: all 0.3s ease;
 }
+.footer__logo{
+  margin-left: -40px;
 
+}
 @media screen and (max-width: 765px) {
   .footer__flex{
     flex-direction: column;
