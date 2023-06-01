@@ -896,11 +896,11 @@ ul{
 .skills__view{
   width: 100%;
   height: 8px;
-  background-color: #fff;
+  background-color: #fff; 
   display: inline-block;
   position: absolute;
   left: 0;
-  top: 0;
+  top: 0; 
   border-radius: 25px;
   animation: ranking 3s linear;
 }
@@ -935,7 +935,7 @@ ul{
   }
 }
 .skills__view--third{
-  width: 90%;
+  width: 60%;
   height: 8px;
   background-color: #fff;
   display: inline-block;
@@ -1053,30 +1053,30 @@ ul{
   /* filter: brightness(0.9); */
 
 }
-.works__item--five{
-  background-image: url('../images/food.png');
+.works__item{
+  background-image: url('../images/projekt-1.jpg');
 }
 .works__item--second{
-  background-image: url('../images/mac-bro.jpg');
+  background-image: url('../images/projekt-1.jpg');
 }
 .work__item--third{
-  background-image: url('../images/insta.jpg');
+  background-image: url('../images/projekt-1.jpg');
 }
 .works__item-fourth{
-  background-image: url('../images/pizza.jpg');
+  background-image: url('../images/projekt-1.jpg');
   background-position: center;
 }
 .works__item-fifth{
-  background-image: url('../images/freshio.jpg');
+  background-image: url('../images/projekt-1.jpg');
 }
 .works__item-six{
-  background-image: url('../images/movie.jpg');
+  background-image: url('../images/projekt-1.jpg');
 }
 .works__item-sevn{
-  background-image: url('../images/text.png');
+  background-image: url('../images/projekt-1.jpg');
 }
 .works__item-ait{
-  background-image: url('../images/port.png');
+  background-image: url('../images/projekt-1.jpg');
 }
 .work__img{
   object-fit: cover;
